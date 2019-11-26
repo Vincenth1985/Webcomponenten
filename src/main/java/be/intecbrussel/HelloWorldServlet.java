@@ -25,17 +25,14 @@ public class HelloWorldServlet extends HttpServlet {
         writer.println("</head>");
         writer.println("<body>");
         writer.println("<h1>");
-        writer.println("Hello World");
+        writer.println("Hello World <br>");
+        writer.println("Method : " + req.getMethod());
+
         writer.println("</h1>");
+
         writer.println("</body>");
         writer.println("</html>");
         writer.close();
-
-
-
-
-
-
 
 
     }
