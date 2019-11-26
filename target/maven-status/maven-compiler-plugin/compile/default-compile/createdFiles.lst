@@ -1,2 +1,3 @@
 be/intecbrussel/HelloWorldServlet.class
-be/intecbrussel/NumberServlet.class
+be/intecbrussel/RefreshNumber.class
+be/intecbrussel/RandomNumber.class
