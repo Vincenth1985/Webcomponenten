@@ -9,7 +9,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-@WebServlet("/helloworldservlet")
+@WebServlet(name = "helloWorldServlet", value = {"/helloworldservlet","/hello"})
 public class HelloWorldServlet extends HttpServlet {
 
 
@@ -35,5 +35,10 @@ public class HelloWorldServlet extends HttpServlet {
         writer.close();
 
 
+    }
+
+    @Override
+    public void init() throws ServletException {
+        System.out.println("HelloWorldServlet instantiated and initialised");
     }
 }
