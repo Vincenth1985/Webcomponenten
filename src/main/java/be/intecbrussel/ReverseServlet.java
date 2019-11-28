@@ -34,7 +34,13 @@ public class ReverseServlet extends HttpServlet {
         writer.println("</h1>");
 
         writer.println("<h1>");
-        writer.println(stringBuilder.reverse());
+        if (stringBuilder.toString().equals("bonjour")) {
+
+            writer.println("Easter Egg");
+
+        } else {
+            writer.println(stringBuilder.reverse().toString());
+        }
 
         writer.println("</h1>");
 
