@@ -20,17 +20,40 @@ public class SquareServlet extends HttpServlet {
 
 
         String number = req.getParameter("aNumber");
+        String outputText;
 
         if (NumberUtils.isCreatable(number)) {
+            //calculate the sqaure
+            int result = NumberUtils.createInteger(number);
 
-
-
-
+            outputText = "the square of " + result + " is " + (result * result);
 
         } else {
+            //generate error messgage
+            outputText = "Wrong input! you have to input a number ,no text please";
 
         }
-        ;
+
+
+        PrintWriter writer = resp.getWriter();
+        writer.println("<html>");
+        writer.println("<head>");
+        writer.println("</head>");
+        writer.println("<body>");
+        writer.println("<h1>");
+        writer.println("Here is what I have to say :");
+
+        writer.println("</h1>");
+
+        writer.println("<h1>");
+
+        writer.println(outputText);
+
+        writer.println("</h1>");
+
+        writer.println("</body>");
+        writer.println("</html>");
+        writer.close();
 
 
     }
