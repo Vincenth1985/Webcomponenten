@@ -1,4 +1,9 @@
-be/intecbrussel/EchoServlet.class
-be/intecbrussel/RandomNumber.class
-be/intecbrussel/HelloWorldServlet.class
-be/intecbrussel/RefreshNumber.class
+be/intecbrussel/dao/GuestBookDao.class
+be/intecbrussel/servlet/HelloWorldServlet.class
+be/intecbrussel/model/GuestbookBean.class
+be/intecbrussel/servlet/ReverseServlet.class
+be/intecbrussel/servlet/SquareServlet.class
+be/intecbrussel/servlet/GuestbookServlet.class
+be/intecbrussel/servlet/RandomNumber.class
+be/intecbrussel/servlet/EchoServlet.class
+be/intecbrussel/servlet/RefreshNumber.class

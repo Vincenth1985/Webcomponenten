@@ -1,6 +1,9 @@
-/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/RefreshNumber.java
-/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/RandomNumber.java
-/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/EchoServlet.java
-/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/SquareServlet.java
-/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/HelloWorldServlet.java
-/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/ReverseServlet.java
+/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/servlet/RefreshNumber.java
+/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/servlet/HelloWorldServlet.java
+/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/servlet/ReverseServlet.java
+/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/model/GuestbookBean.java
+/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/servlet/EchoServlet.java
+/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/dao/GuestBookDao.java
+/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/servlet/SquareServlet.java
+/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/servlet/GuestbookServlet.java
+/Users/vincenthonca/Documents/Intelij/Webcomponenten/Opdrachten/src/main/java/be/intecbrussel/servlet/RandomNumber.java
