@@ -3,468 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="b4de941e-5b02-4014-84fd-7caf864fa202" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/EchoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/EchoServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/HelloWorldServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/HelloWorldServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/RandomNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/RandomNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/RefreshNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/RefreshNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/ReverseServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/ReverseServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/SquareServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/SquareServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/reverse.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/reverse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Webcomponent.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Webcomponent/WEB-INF/classes/be/intecbrussel/NumberServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Webcomponent/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Webcomponent/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/.cargo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/BUILDING.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/NOTICE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/RELEASE-NOTES" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/RUNNING.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/TomEE.amd64.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/TomEE.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/TomEE.ia64.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/TomEE.x86.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/bootstrap.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/catalina-tasks.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/catalina.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/catalina.bat.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/catalina.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/catalina.sh.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/ciphers.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/ciphers.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/commons-daemon-native.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/commons-daemon.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/configtest.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/configtest.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/daemon.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/digest.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/digest.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/makebase.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/makebase.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/service.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/service.install.as.admin.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/service.readme.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/service.remove.as.admin.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/setclasspath.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/setclasspath.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/shutdown.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/shutdown.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/startup.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/startup.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/tomcat-juli.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/tomcat-native.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/tomee.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/tomee.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/tool-wrapper.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/tool-wrapper.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/version.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/bin/version.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/catalina.policy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/catalina.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/jaspic-providers.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/jaspic-providers.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/server.xml.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/system.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/tomcat-users.xml.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/tomcat-users.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/tomee.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/activation-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/activemq-broker-5.15.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/activemq-client-5.15.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/activemq-jdbc-store-5.15.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/activemq-kahadb-store-5.15.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/activemq-openwire-legacy-5.15.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/activemq-protobuf-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/activemq-ra-5.15.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/batchee-jbatch-0.5-incubating.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/bcprov-jdk15on-1.60.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/bval-jsr-2.0.1-83f28d8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/catalina-ant.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/catalina-ha.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/catalina-storeconfig.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/catalina-tribes.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/catalina.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-beanutils-1.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-cli-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-codec-1.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-collections-3.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-dbcp2-2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-digester-1.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-jcs-core-2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-jcs-jcache-2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-lang3-3.8.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-logging-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/commons-pool2-2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cryptacular-1.1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-core-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-bindings-soap-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-bindings-xml-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-databinding-jaxb-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-frontend-jaxrs-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-frontend-jaxws-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-frontend-simple-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-management-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-rs-client-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-rs-extension-providers-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-rs-extension-search-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-rs-json-basic-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-rs-security-cors-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-rs-security-jose-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-rs-security-jose-jaxrs-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-rs-security-oauth2-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-rs-service-description-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-security-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-security-saml-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-transports-http-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-ws-addr-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-ws-policy-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-ws-security-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/cxf-rt-wsdl-3.2.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/ecj-4.7.3a.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/el-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/geronimo-connector-3.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/geronimo-javamail_1.4_mail-1.9.0-alpha-2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/geronimo-transaction-3.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/hawtbuf-1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/howl-1.0.1-1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/hsqldb-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/jasper-el.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/jasper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/jaspic-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/jasypt-1.9.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/java-support-7.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/javaee-api-8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/javax.xml.soap-api-1.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/jaxb-api-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/jaxb-core-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/jaxb-impl-2.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/joda-time-2.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/johnzon-core-1.1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/johnzon-jaxrs-1.1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/johnzon-jsonb-1.1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/johnzon-mapper-1.1.11.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/jsp-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/mbean-annotation-api-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/mimepull-1.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/myfaces-api-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/myfaces-impl-2.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/neethi-3.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-api-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-client-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-core-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-cxf-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-cxf-rs-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-cxf-transport-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-ejbd-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-hsql-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-http-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-javaagent.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-jee-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-jee-accessors-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-jpa-integration-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-loader-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-rest-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-server-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openejb-webservices-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openjpa-3.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-core-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-profile-api-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-saml-api-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-saml-impl-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-security-api-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-security-impl-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-soap-api-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-xacml-api-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-xacml-impl-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-xacml-saml-api-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-xacml-saml-impl-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-xmlsec-api-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/opensaml-xmlsec-impl-3.3.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openwebbeans-ee-2.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openwebbeans-ee-common-2.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openwebbeans-ejb-2.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openwebbeans-el22-2.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openwebbeans-impl-2.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openwebbeans-jsf-2.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openwebbeans-spi-2.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/openwebbeans-web-2.0.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/quartz-openejb-shade-2.2.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/saaj-impl-1.3.23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/serializer-2.7.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/serp-1.15.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/servlet-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/slf4j-api-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/slf4j-jdk14-1.7.21.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/stax-api-1.0-2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/stax-ex-1.7.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/stax2-api-3.1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/swizzle-stream-1.6.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/sxc-jaxb-core-0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/sxc-runtime-0.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/taglibs-standard-jstlel-1.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-coyote.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-dbcp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-i18n-es.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-i18n-fr.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-i18n-ja.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-i18n-ru.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-jdbc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-jni.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-util-scan.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-util.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomcat-websocket.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-catalina-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-common-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-config-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-jaxrs-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-jdbc-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-loader-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-mojarra-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-myfaces-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-webapp-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/tomee-webservices-8.0.0-M2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/websocket-api.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/woodstox-core-5.0.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/wsdl4j-1.6.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/wss4j-bindings-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/wss4j-policy-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/wss4j-ws-security-common-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/wss4j-ws-security-dom-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/wss4j-ws-security-policy-stax-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/wss4j-ws-security-stax-2.2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xalan-2.7.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xbean-asm6-shaded-4.8.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xbean-asm7-shaded-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xbean-bundleutils-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xbean-finder-shaded-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xbean-naming-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xbean-reflect-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xml-resolver-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xmlschema-core-2.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/lib/xmlsec-2.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/temp/safeToDelete.tmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/RELEASE-NOTES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/asf-logo-wide.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/bg-button.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/bg-middle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/bg-nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/bg-upper.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/tomcat-power.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/tomcat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/tomcat.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/tomcat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/ROOT/tomcat.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/BUILDING.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/RELEASE-NOTES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/RUNNING.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/aio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/api/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/build.xml.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/deployment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/installation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/introduction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/processes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/sample/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/sample/docs/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/sample/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/sample/sample.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/sample/src/mypackage/Hello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/sample/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/sample/web/hello.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/sample/web/images/tomcat.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/sample/web/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/source.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/appdev/web.xml.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/apr.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/architecture/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/architecture/overview.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/architecture/requestProcess.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/architecture/requestProcess/authentication-process.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/architecture/requestProcess/request-process.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/architecture/startup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/architecture/startup/serverStartup.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/architecture/startup/serverStartup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/balancer-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/building.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/cgi-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/changelog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/class-loader-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/cluster-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/comments.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/ajp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/automatic-deployment.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster-channel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster-deployer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster-interceptor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster-listener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster-manager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster-membership.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster-receiver.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster-sender.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster-valve.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cluster.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/context.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/cookie-processor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/credentialhandler.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/engine.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/executor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/filter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/globalresources.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/host.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/http.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/http2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/jar-scan-filter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/jar-scanner.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/jaspic.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/listeners.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/loader.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/manager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/realm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/resources.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/server.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/service.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/sessionidgenerator.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/systemprops.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/config/valve.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/connectors.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/default-servlet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/deployer-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/developers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/elapi/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/extras.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/funcspecs/fs-admin-apps.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/funcspecs/fs-admin-objects.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/funcspecs/fs-admin-opers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/funcspecs/fs-default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/funcspecs/fs-jdbc-realm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/funcspecs/fs-jndi-realm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/funcspecs/fs-memory-realm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/funcspecs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/funcspecs/mbean-names.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/host-manager-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/html-host-manager-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/html-manager-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/add.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/asf-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/code.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/cors-flowchart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/design.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/docs-stylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/docs.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/fix.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/fonts/OpenSans400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/fonts/OpenSans400italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/fonts/OpenSans600.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/fonts/OpenSans600italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/fonts/OpenSans700.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/fonts/OpenSans700italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/fonts/fonts.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/tomcat.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/tomcat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/update.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/images/void.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/introduction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/jasper-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/jdbc-pool.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/jndi-datasource-examples-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/jndi-resources-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/jspapi/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/logging.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/manager-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/maven-jars.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/mbeans-descriptors-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/mbeans-descriptors.dtd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/monitoring.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/proxy-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/realm-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/rewrite.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/security-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/security-manager-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/servletapi/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/setup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/ssi-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/ssl-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/tribes/developers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/tribes/faq.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/tribes/interceptors.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/tribes/introduction.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/tribes/membership.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/tribes/setup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/tribes/status.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/tribes/transport.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/virtual-hosting-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/web-socket-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/websocketapi/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/windows-auth-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/docs/windows-service-howto.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/host-manager/META-INF/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/host-manager/WEB-INF/jsp/401.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/host-manager/WEB-INF/jsp/403.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/host-manager/WEB-INF/jsp/404.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/host-manager/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/host-manager/images/asf-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/host-manager/images/tomcat.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/host-manager/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/host-manager/manager.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/META-INF/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/WEB-INF/jsp/401.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/WEB-INF/jsp/403.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/WEB-INF/jsp/404.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/WEB-INF/jsp/connectorCerts.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/WEB-INF/jsp/connectorCiphers.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/WEB-INF/jsp/connectorTrustedCerts.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/WEB-INF/jsp/sessionDetail.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/WEB-INF/jsp/sessionsList.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/images/asf-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/images/tomcat.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/status.xsd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cargo/installs/apache-tomee-8.0.0-M2-plus/apache-tomee-plus-8.0.0-M2/webapps/manager/xform.xsl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/Opdrachten.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/EchoServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/HelloWorldServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/RandomNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/RefreshNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/ReverseServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/SquareServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/GuestbookServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/GuestbookServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/dao/GuestBookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/be/intecbrussel/dao/GuestBookDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/be/intecbrussel/servlet/GuestbookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/be/intecbrussel/servlet/GuestbookServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/firstservlet.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/firstservlet.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/EasterEgg.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/META-INF/Opdrachten.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/EchoServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/HelloWorldServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/NumberRefresh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/NumberServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/RandomNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/RefreshNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/ReverseServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/SquareServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/refreshServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/firstservlet/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/firstservlet/reverse.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/firstservlet/reverse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/dao/GuestBookDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/dao/GuestBookDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/servlet/GuestbookServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/firstservlet/WEB-INF/classes/be/intecbrussel/servlet/GuestbookServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -488,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+            <state relative-caret-position="480">
+              <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -497,10 +42,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/be/intecbrussel/dao/GuestBookDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
+            <state relative-caret-position="375">
               <caret line="84" column="113" selection-start-line="84" selection-start-column="113" selection-end-line="84" selection-end-column="113" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="initializer##0;class#GuestBookDao#0" />
                 <element signature="method#addGuestBookItem#0;class#GuestBookDao#0" />
                 <element signature="method#getGuestBookItems#0;class#GuestBookDao#0" />
               </folding>
@@ -511,13 +57,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/GuestbookServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+            <state relative-caret-position="514">
+              <caret line="55" column="101" selection-start-line="55" selection-start-column="101" selection-end-line="55" selection-end-column="101" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#init#0;class#GuestbookServlet#0" />
-                <element signature="method#doGet#0;class#GuestbookServlet#0" />
-                <element signature="method#doPost#0;class#GuestbookServlet#0" />
               </folding>
             </state>
           </provider>
@@ -560,8 +104,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/reverse.html" />
         <option value="$PROJECT_DIR$/src/main/java/be/intecbrussel/model/GuestbookBean.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
-        <option value="$PROJECT_DIR$/src/main/java/be/intecbrussel/dao/GuestBookDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/GuestbookServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/be/intecbrussel/dao/GuestBookDao.java" />
       </list>
     </option>
   </component>
@@ -697,6 +241,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.1970181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -869,17 +414,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="65" selection-start-line="31" selection-start-column="65" selection-end-line="31" selection-end-column="65" />
+        <state relative-caret-position="480">
+          <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/be/intecbrussel/dao/GuestBookDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="375">
           <caret line="84" column="113" selection-start-line="84" selection-start-column="113" selection-end-line="84" selection-end-column="113" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="initializer##0;class#GuestBookDao#0" />
             <element signature="method#addGuestBookItem#0;class#GuestBookDao#0" />
             <element signature="method#getGuestBookItems#0;class#GuestBookDao#0" />
           </folding>
@@ -888,13 +434,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/be/intecbrussel/servlet/GuestbookServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        <state relative-caret-position="514">
+          <caret line="55" column="101" selection-start-line="55" selection-start-column="101" selection-end-line="55" selection-end-column="101" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#init#0;class#GuestbookServlet#0" />
-            <element signature="method#doGet#0;class#GuestbookServlet#0" />
-            <element signature="method#doPost#0;class#GuestbookServlet#0" />
           </folding>
         </state>
       </provider>

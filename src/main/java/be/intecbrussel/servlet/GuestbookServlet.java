@@ -32,8 +32,10 @@ public class GuestbookServlet extends HttpServlet {
         PrintWriter writer = resp.getWriter();
         GuestbookBean guestbookBean = new GuestbookBean(LocalDate.now(), req.getParameter("Name"), req.getParameter("Message"));
         guestBookDao.addGuestBookItem(guestbookBean);
+
         resp.setContentType("text/html");
         resp.setCharacterEncoding("UTF-8");
+
         writer.println("<html>");
         writer.println("<head>");
         writer.println("</head>");
@@ -41,7 +43,7 @@ public class GuestbookServlet extends HttpServlet {
 
 
         for (GuestbookBean guestBookItem : guestBookDao.getGuestBookItems()) {
-            writer.println("<p>Date : " + guestBookItem.getDate() + " Name : " + guestBookItem.getName() + "</p> Message : " + guestBookItem.getMessage());
+            writer.println("<p>Date : " + guestBookItem.getDate() + " Name : " + guestBookItem.getName() + " </p>" + guestBookItem.getMessage());
         }
         writer.println("</body>");
         writer.println("</html>");
